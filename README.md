@@ -11,12 +11,14 @@
 
 ## Technologies
 
-- **Grafana**: A powerful analytics and monitoring platform that visualizes real-time data from various sources, enabling data-driven decision-making.
-- **Prometheus**: A flexible and efficient monitoring system that collects metrics from your applications and infrastructure, providing valuable insights for performance optimization.
-- **Splunk**: A comprehensive data analytics and visualization tool that enables you to search, monitor, and analyze large volumes of machine-generated data.
-- **AWS CloudWatch**: A monitoring and observability service offered by Amazon Web Services (AWS) that provides real-time insights into your applications, resources, and infrastructure running on AWS.
-- **React**: A popular JavaScript library for building interactive user interfaces. React allows you to create reusable UI components and efficiently update the UI in response to data changes.
-- **GDB**: The GNU Project Debugger, a powerful tool for debugging and analyzing C and C++ programs.
+- **Grafana**
+- **Prometheus**
+- **Splunk**
+- **AWS CloudWatch**
+- **React**
+- **GDB**
+- **VSCode**
+- **Clion**
 
 
 ## Operating System
