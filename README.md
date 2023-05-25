@@ -1,16 +1,12 @@
-### Hi there 👋
+# My Tech Stack
 
-<!--
-**mhoualla/mhoualla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming Languages
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <span style="color:#00599C">C++</span>
+- <span style="color:#A8B9CC">C</span>
+- <span style="color:#FFD43B">Python</span>
+- <span style="color:#F7DF1E">JavaScript</span>
+- <span style="color:#2965F1">CSS</span>
+- <span style="color:#E34C26">HTML</span>
+- <span style="color:#DEA584">Rust</span>
+- <span style="color:#E6B91E">SQL</span>
