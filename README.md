@@ -1,3 +1,6 @@
+Hello there! My name is Marwa, and I'm a rising senior at the University of Michigan. 
+
+
 ## Programming Languages
 
 - <span style="color:#00599C">C++</span>
