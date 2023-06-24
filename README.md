@@ -1,5 +1,5 @@
 Hello there! My name is Marwa, and I'm a rising senior at the University of Michigan. 
-## Programming Languages
+## Languages
 - <kbd><b style="color:#F46800;">C++</b></kbd>
 - <kbd><b style="color:#E23E5A;">C</b></kbd>
 - <kbd><b style="color:#00B4AB;">Python</b></kbd>
