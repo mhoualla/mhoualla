@@ -2,6 +2,7 @@ Hello there! My name is Marwa, and I'm a rising senior at the University of Mich
 ## Languages
 - <kbd><b style="color:#F46800;">C++</b></kbd>
 - <kbd><b style="color:#E23E5A;">C</b></kbd>
+- <kbd><b style="color:#E23E5A;">C#</b></kbd>
 - <kbd><b style="color:#00B4AB;">Python</b></kbd>
 - <kbd><b style="color:#FF9900;">JavaScript</b></kbd>
 - <kbd><b style="color:#61DAFB;">CSS</b></kbd>
