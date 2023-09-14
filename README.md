@@ -1,4 +1,4 @@
-Hello there! My name is Marwa, and I'm a rising senior at the University of Michigan. 
+Hello there! My name is Marwa, and I'm a senior at the University of Michigan. 
 ## Languages
 - <kbd><b style="color:#F46800;">C++</b></kbd>
 - <kbd><b style="color:#E23E5A;">C</b></kbd>
