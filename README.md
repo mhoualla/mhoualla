@@ -1,4 +1,4 @@
-Hello there! My name is Marwa, and I'm a senior at the University of Michigan. 
+Hello there! My name is Marwa, and I'm a graduate student at the University of Michigan. 
 ## Languages
 - <kbd><b style="color:#F46800;">C++</b></kbd>
 - <kbd><b style="color:#E23E5A;">C</b></kbd>
@@ -10,7 +10,7 @@ Hello there! My name is Marwa, and I'm a senior at the University of Michigan.
 - <kbd><b style="color:#007ACC;">Rust</b></kbd>
 - <kbd><b style="color:#24292E;">SQL</b></kbd>
 
-## 🛠 Technologies and Tools
+## Technologies and Tools
 
 - <kbd><b style="color:#F46800;">Grafana</b></kbd>
 - <kbd><b style="color:#E23E5A;">Prometheus</b></kbd>
